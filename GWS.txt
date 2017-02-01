@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+body {background-color: white;}
+h1 {
+    color: rgb(0, 147, 233);
+    font-family: verdana;
+    font-size: 250%;
+}
+p  {
+    color: black;
+    font-family: courier;
+    font-size: 150%;
+}
+</style>
+<title>George's Web Solutions</title>
+</style>
+</head>
+<body>
+
+<h1>George's Web Solutions</h1>
+
+</body>
+</html>
+

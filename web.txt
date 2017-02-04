@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>function goBack() {
+     window.history.back()
+}
+</script>
+    <title>George's Web Design</title>
+    <meta charset="UTF -8">
+    <meta name="viewport" content="width=device=width, initial-scale=1">
+
+<style>
+img {
+    display: block;
+    margin: 0 auto;
+}
+ul  {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #101A8D;
+}
+li {
+    float: left;
+}
+li a  {
+      display:  block;
+      color: white;
+      text-align: center;
+      padding: 16px;
+      tex-decoration: none;
+}
+li a:hover {
+     background-color: #111111;
+}
+
+body {background-color: white;}
+
+a:link         {color:white; background-color:transparent; text-decoration:none}
+a:visited      {color:white; background-color:transparent; text-decoration:none}
+a:hover        {color:yellow; background-color:transparent; text-decoration:none}
+a:active       {color:whitesmoke; background-color:transparent; text-decoration:none}
+
+h1     {
+         
+         color: #3662CC;
+         font-family: sans-serif;
+         font-size: 260%;
+         text-align: center;
+}
+div.container {
+      width: 100%;
+      border: 1px;
+}
+
+header , footer {
+      padding: 1em;
+      color: black;
+      background-color: white;
+      clear: left;
+      text-align: center;
+}
+
+nav {
+       float: left;
+       max-width: 100px;
+       margin: 0 auto;
+       padding: 1em;
+}
+
+nav ul {
+       list-style-type: none;
+       Padding: 0;
+}
+
+nav ul a {
+       text-decoration: none;
+}
+
+article {
+      margin-left: 20px;
+      border-left: 1px;
+      overflow: hidden;
+}
+
+p   {
+      border: 1px;
+      color: black;
+      font-family: monospace;
+      font-size:  110%;
+      padding: 30px;
+      margin: 20px;
+}
+</style>
+</head>
+<body> 
+
+<img src="images/gwd-icon.jpg" width="532" height="111" alt="Georges web design logo">
+
+
+<ul>
+    <li><a href="#home">Home</a></li>
+    <li><a href="#News">News</a></li>
+    <li><a href="#Contact">Contact</a></li>
+    <li><a href="#About">About</a></li>
+    <li><a href="#">Contact detail's</a></li>
+    <li><a href="https://github.com/George2393">Portfolio</a></li>
+    <li><a href="#">Prices</a></li>
+    </ul>
+     
+<article>
+
+<img src="images/kittysidea%20logo.png" alt="George's web design banner" />
+
+ <p>George's Web Design your professional web design needs, I'll make your website look, feel and function the exactly
+ way that you want it, established in 2017 and going strong.</p>
+</article>
+
+<footer>Copyright &copy; gwd.co.uk</footer>
+
+<a href="https://en-gb.facebook.com/"><img src="http://www.comicshoplocator.com/GenericImages/facebook-icon.png"></a>
+
+</div>
+<script>
+document.write(Date());
+</script>
+
+</body>
+</html>

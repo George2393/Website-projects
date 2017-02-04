@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jurassic Bark</title>
+    <meta charset="UTF -8">
+    <meta name="viewport" content="width=device=width, initial-scale=1">
+
+<style>
+ul  {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333333;
+}
+li {
+    float: left;
+}
+li a  {
+      display:  block;
+      color: white;
+      text-align: center;
+      padding: 16px;
+      tex-decoration: none;
+}
+li a:hover {
+     background-color: #111111;
+}
+
+body {background-color: white;}
+
+a:link           {color:green; background-color:transparent; text-decoration:none}
+a:visited      {color:red; background-color:transparent; text-decoration:none}
+a:hover       {color:yellow; background-color:transparent; text-decoration:none}
+a:active       {color:blue: background-color:transparent; text-decoration:none}
+
+h1     {
+         color: green;
+         font-family: verdana;
+         font-size:   260%;
+         text-align: center;
+}
+div.container {
+      width: 100%;
+      border: 1px solid grey;
+}
+
+header, footer {
+      padding: 1em;
+      color: white;
+      background-color: black;
+      clear: left;
+      text-align: center;
+}
+
+nav {
+       float: left;
+       max-width: 2000px;
+       margin: 0;
+       padding: 1em;
+}
+
+nav ul {
+       list-style-type: none;
+       Padding: 0;
+}
+
+nav ul a {
+       text-decoration: none;
+}
+
+article {
+      margin-left: 40px;
+      border-left: 1px solid grey;
+      Padding: 1em;
+      overflow: hidden;
+}
+
+p   {
+      border: 1px solid green;
+      color: white;
+      font-faimly: courier;
+      font-size:  110%;
+      padding: 30px;
+      margin: 50px;
+}
+</style>
+</head>
+<body> 
+
+<img src="images/gwd-icon.jpg" width="532" height="111" alt="Georges web design logo">
+
+
+<ul>
+    <li><a href="#home">Home</a></li>
+    <li><a href="#News">News</a></li>
+    <li><a href="#Contact">Contact</a></li>
+    <li><a href="#About">About</a></li>
+</ul>
+
+<div class="container">
+
+<header>
+ <h1>Jurassic Bark</h1>
+</header>
+
+<nav>
+     <ul>
+        <li><a href="#">Contact detail's</a></li>
+        <li><a href="#">Jurassic Bark Member's</a></li>
+        <li><a href="#">Gallery</a></li>
+
+<article>
+     <h1>Jusrassic Bark</h1>   
+ <p>Jurassic Bark Tree Surgery all your Aborist needs covered! All images posted are from our employees and are
+owned by the company Jurassic Bark Tree Surgery, Vist our Facebook or Instagram page for more info'</p>
+</article>
+
+<footer>Copyright &copy; Jusrassicbark.co.uk</footer>
+
+<a href="https://www.facebook.com/Jurassicbarktreesurgery/" target="_blank" >This is Jurassic Bark's Facebook page</a>
+
+<a href="https://www.instagram.com/jurassic_Bark_tree_surgery/" target="_blank" >This is Jurassc Bark's Instagram Page</a>
+
+</div>
+
+
+</body>
+</html>
